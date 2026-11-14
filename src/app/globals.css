@@ -21,6 +21,16 @@ body {
   text-underline-offset: 3px;
 }
 
+:focus-visible {
+  outline: 2px solid #C0392B;
+  outline-offset: 3px;
+}
+
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;

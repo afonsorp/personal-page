@@ -68,6 +68,7 @@ export default function ExperienceSection({ tr }: { tr: TranslationData }) {
                     isCurrent ? 'text-ink pencil-mark' : isSubEntry ? 'text-muted' : 'text-ink',
                   ].join(' ')}>
                     {expTr.role}
+                    {isCurrent && <span className="sr-only"> (current position)</span>}
                   </span>
 
                   {expTr.highlights.length > 0 && (

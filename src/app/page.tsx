@@ -15,7 +15,7 @@ export default function Home() {
     <main className="max-w-4xl mx-auto px-6 sm:px-10 py-16 sm:py-24">
       <Header subtitle={tr.subtitle} />
 
-      <p className="font-sans text-sm text-muted mt-10 leading-relaxed" style={{ maxWidth: '62ch' }}>
+      <p className="font-sans text-sm text-muted mt-10 leading-relaxed text-pretty" style={{ maxWidth: '65ch' }}>
         {tr.bio}
       </p>
 

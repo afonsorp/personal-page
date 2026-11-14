@@ -13,7 +13,7 @@ export default function Header({ subtitle }: HeaderProps) {
     <header>
       <div className="flex items-start justify-between gap-6">
         <motion.h1
-          className="font-lora font-bold leading-[0.93] tracking-tight text-ink"
+          className="font-lora font-bold leading-[0.93] tracking-tight text-ink text-balance"
           style={{ fontSize: 'clamp(2.75rem, 7.5vw, 6rem)' }}
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
