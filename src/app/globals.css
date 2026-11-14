@@ -4,11 +4,14 @@
 
 body {
   background-color: #FAFAFA;
-  background-image:
-    linear-gradient(rgba(0, 0, 0, 0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(0, 0, 0, 0.04) 1px, transparent 1px);
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.11) 1.5px, transparent 1.5px);
   background-size: 20px 20px;
   color: #0C0C0C;
+}
+
+::selection {
+  background-color: #C0392B;
+  color: #FAFAFA;
 }
 
 .pencil-mark {

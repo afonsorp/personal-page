@@ -24,6 +24,17 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'Pedro Afonso',
   description: 'Frontend developer and Team Lead based in Porto, Portugal. 17 years building for the web.',
+  openGraph: {
+    title: 'Pedro Afonso',
+    description: 'Frontend developer and Team Lead based in Porto, Portugal.',
+    siteName: 'Pedro Afonso',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Pedro Afonso',
+    description: 'Frontend developer and Team Lead based in Porto, Portugal.',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
