@@ -21,7 +21,7 @@ export interface TranslationData {
 export const t: Record<Lang, TranslationData> = {
   en: {
     subtitle: 'Team Lead & Frontend Developer',
-    bio: 'Software developer with over 17 years in the industry. I started in frontend — JavaScript, AngularJS, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.',
+    bio: 'Software developer with over 17 years in the industry. I started in frontend — JavaScript, Angular, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.',
     sections: {
       experience: 'experience',
       education: 'education',
@@ -52,7 +52,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Front End Developer',
         highlights: [
-          'Built dynamic user experiences for the DZone Portal with AngularJS and SCSS',
+          'Built dynamic user experiences for the DZone Portal with Angular and SCSS',
         ],
       },
       {
@@ -70,7 +70,7 @@ export const t: Record<Lang, TranslationData> = {
 
   pt: {
     subtitle: 'Team Lead & Desenvolvedor Frontend',
-    bio: 'Programador com mais de 17 anos de experiência na indústria. Comecei no frontend — JavaScript, AngularJS, React — e hoje lidero uma equipa de seis pessoas na Azakaw. O meu papel combina responsabilidade de entrega com trabalho prático: grooming de backlog, planeamento de sprints, e garantir que o trabalho está testado e pronto para produção, sem deixar de escrever código e rever pull requests. Faço 1:1s, mentoro developers no frontend e participo em entrevistas técnicas.',
+    bio: 'Programador com mais de 17 anos de experiência na indústria. Comecei no frontend — JavaScript, Angular, React — e hoje lidero uma equipa de seis pessoas na Azakaw. O meu papel combina responsabilidade de entrega com trabalho prático: grooming de backlog, planeamento de sprints, e garantir que o trabalho está testado e pronto para produção, sem deixar de escrever código e rever pull requests. Faço 1:1s, mentoro developers no frontend e participo em entrevistas técnicas.',
     sections: {
       experience: 'experiência',
       education: 'educação',
@@ -101,7 +101,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Desenvolvedor Frontend',
         highlights: [
-          'Criou experiências dinâmicas para o DZone Portal com AngularJS e SCSS',
+          'Criou experiências dinâmicas para o DZone Portal com Angular e SCSS',
         ],
       },
       {
