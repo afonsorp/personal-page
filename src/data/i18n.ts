@@ -46,19 +46,19 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Senior Frontend Developer',
         highlights: [
-          'Built Lidya\'s frontend products for internal and public use with React, HTML, and LESS',
+          'Contributed to Lidya\'s frontend products for internal and public use with React, HTML, and LESS',
         ],
       },
       {
         role: 'Front End Developer',
         highlights: [
-          'Built dynamic user experiences for the DZone Portal with Angular and SCSS',
+          'Contributed to dynamic user experiences for the DZone Portal with Angular and SCSS',
         ],
       },
       {
         role: 'IT Analyst Programmer',
         highlights: [
-          'Developed the Altaia project (PT Inovação) using WebFocus, HTML, CSS, and jQuery',
+          'Contributed to the Altaia project (PT Inovação) using WebFocus, HTML, CSS, and jQuery',
         ],
       },
     ],
@@ -95,19 +95,19 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Programador Frontend Sénior',
         highlights: [
-          'Desenvolveu o frontend dos produtos Lidya — uso interno e público — com React, HTML e LESS',
+          'Contribuiu para o frontend dos produtos Lidya — uso interno e público — com React, HTML e LESS',
         ],
       },
       {
         role: 'Programador Frontend',
         highlights: [
-          'Criou experiências de utilizador dinâmicas para o DZone Portal com Angular e SCSS',
+          'Contribuiu para as experiências de utilizador do DZone Portal com Angular e SCSS',
         ],
       },
       {
         role: 'Analista Programador',
         highlights: [
-          'Desenvolveu o projecto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
+          'Contribuiu para o projecto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
         ],
       },
     ],

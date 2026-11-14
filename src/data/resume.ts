@@ -41,7 +41,7 @@ export const resume = {
       end: "2024-08",
       location: "Porto, Portugal",
       highlights: [
-        "Developed the frontend of Lidya products for both internal and public use",
+        "Contributed to Lidya's frontend products for both internal and public use",
       ],
       stack: ["React", "JavaScript", "HTML", "LESS"],
     },
@@ -52,8 +52,7 @@ export const resume = {
       end: "2018-12",
       location: "Raleigh, NC (remote)",
       highlights: [
-        "Specialized in front-end development for the DZone Portal",
-        "Built engaging and dynamic user experiences",
+        "Contributed to dynamic user experiences for the DZone Portal",
       ],
       stack: ["Angular", "JavaScript", "HTML", "SCSS"],
     },
@@ -64,8 +63,7 @@ export const resume = {
       end: "2014-11",
       location: "Aveiro, Portugal",
       highlights: [
-        "Developed the Altaia project (PT Inovação) using WebFocus",
-        "Built interfaces with HTML, CSS, JavaScript, and jQuery",
+        "Contributed to the Altaia project (PT Inovação) using WebFocus, HTML, CSS, and jQuery",
       ],
       stack: ["jQuery", "JavaScript", "HTML", "CSS", "WebFocus"],
     },
