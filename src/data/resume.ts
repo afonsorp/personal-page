@@ -4,7 +4,7 @@ export const resume = {
   email: "afonsorpl@gmail.com",
   linkedin: "https://www.linkedin.com/in/afonsorp",
 
-  bio: "Software developer with over 17 years in the industry. I started in frontend — JavaScript, AngularJS, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.",
+  bio: "Software developer with over 17 years in the industry. I started in frontend — JavaScript, Angular, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.",
 
   experience: [
     {
@@ -55,7 +55,7 @@ export const resume = {
         "Specialized in front-end development for the DZone Portal",
         "Built engaging and dynamic user experiences",
       ],
-      stack: ["AngularJS", "HTML", "SCSS", "JavaScript"],
+      stack: ["Angular", "JavaScript", "HTML", "SCSS"],
     },
     {
       company: "TeamEffort",
@@ -67,7 +67,7 @@ export const resume = {
         "Developed the Altaia project (PT Inovação) using WebFocus",
         "Built interfaces with HTML, CSS, JavaScript, and jQuery",
       ],
-      stack: ["HTML", "CSS", "JavaScript", "jQuery", "WebFocus"],
+      stack: ["jQuery", "JavaScript", "HTML", "CSS", "WebFocus"],
     },
   ],
 
@@ -88,7 +88,7 @@ export const resume = {
 
   skills: {
     languages: ["TypeScript", "JavaScript"],
-    frontend: ["React", "Angular", "AngularJS", "HTML", "CSS", "SCSS", "LESS"],
+    frontend: ["React", "Angular", "Angular", "HTML", "CSS", "SCSS", "LESS"],
     tools: ["Git", "Tailwind CSS"],
     leadership: [
       "Team management",
