@@ -69,8 +69,8 @@ export const t: Record<Lang, TranslationData> = {
   },
 
   pt: {
-    subtitle: 'Team Lead & Desenvolvedor Frontend',
-    bio: 'Programador com mais de 17 anos de experiência na indústria. Comecei no frontend — JavaScript, Angular, React — e hoje lidero uma equipa de seis pessoas na Azakaw. O meu papel combina responsabilidade de entrega com trabalho prático: grooming de backlog, planeamento de sprints, e garantir que o trabalho está testado e pronto para produção, sem deixar de escrever código e rever pull requests. Faço 1:1s, mentoro developers no frontend e participo em entrevistas técnicas.',
+    subtitle: 'Team Lead & Programador Frontend',
+    bio: 'Programador com mais de 17 anos de experiência. Comecei no frontend — JavaScript, Angular, React — e actualmente lidero uma equipa de seis pessoas na Azakaw. O meu trabalho combina gestão de entrega com envolvimento técnico directo: refinamento de backlog, planeamento de sprints e garantia de qualidade, sem deixar de escrever e rever código. Faço 1:1s, acompanho o crescimento dos programadores do frontend e participo em entrevistas técnicas.',
     sections: {
       experience: 'experiência',
       education: 'educação',
@@ -81,33 +81,33 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Team Lead',
         highlights: [
-          'Lidera uma equipa de seis pessoas',
-          'Responsável pelo backlog: grooming, estimativas, escrita e atribuição de tarefas',
-          'Garante entregas no prazo com trabalho testado e pronto para produção',
-          'Realiza 1:1s e dá feedback; mentora developers no frontend',
-          'Mantém trabalho prático: escreve código e revê pull requests',
+          'Liderar uma equipa de seis programadores',
+          'Gerir o backlog da equipa: refinamento, estimativas e atribuição de tarefas',
+          'Garantir entregas dentro do prazo, com trabalho testado e pronto para produção',
+          'Realizar 1:1s e dar feedback; acompanhar o crescimento dos programadores do frontend',
+          'Manter presença técnica activa: escrever código e rever pull requests',
         ],
       },
       {
-        role: 'Desenvolvedor Frontend Sénior',
+        role: 'Programador Frontend Sénior',
         highlights: [],
       },
       {
-        role: 'Desenvolvedor Frontend Sénior',
+        role: 'Programador Frontend Sénior',
         highlights: [
-          'Desenvolveu o frontend dos produtos Lidya para uso interno e público com React, HTML e LESS',
+          'Desenvolveu o frontend dos produtos Lidya — uso interno e público — com React, HTML e LESS',
         ],
       },
       {
-        role: 'Desenvolvedor Frontend',
+        role: 'Programador Frontend',
         highlights: [
-          'Criou experiências dinâmicas para o DZone Portal com Angular e SCSS',
+          'Criou experiências de utilizador dinâmicas para o DZone Portal com Angular e SCSS',
         ],
       },
       {
         role: 'Analista Programador',
         highlights: [
-          'Desenvolveu o projeto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
+          'Desenvolveu o projecto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
         ],
       },
     ],
