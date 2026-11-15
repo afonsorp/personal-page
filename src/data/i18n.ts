@@ -32,7 +32,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Team Lead',
         highlights: [
-          'Lead a six-person software team',
+          'I lead a six-person software team',
           'Own the team\'s backlog: ticket grooming, estimation, writing and assigning work',
           'Ensure on-time delivery with work tested and release-ready',
           'Run 1:1s and give feedback; mentor developers on the frontend',
@@ -53,6 +53,7 @@ export const t: Record<Lang, TranslationData> = {
         role: 'Front End Developer',
         highlights: [
           'Contributed to the DZone Portal\'s frontend with Angular and SCSS',
+          'Handled production deployments and support tasks',
         ],
       },
       {
@@ -81,11 +82,11 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Team Lead',
         highlights: [
-          'Liderar uma equipa de seis programadores',
-          'Gerir o backlog da equipa: refinamento, estimativas e atribuição de tarefas',
-          'Garantir entregas dentro do prazo, com trabalho testado e pronto para produção',
-          'Realizar 1:1s e dar feedback; acompanhar o crescimento dos programadores do frontend',
-          'Escrever código e rever pull requests',
+          'Lidero uma equipa de seis programadores',
+          'Giro o backlog da equipa: refinamento, estimativas e atribuição de tarefas',
+          'Garanto entregas dentro do prazo, com trabalho testado e pronto para produção',
+          'Faço 1:1s e dou feedback; acompanho o crescimento dos programadores do frontend',
+          'Escrevo código e revejo pull requests',
         ],
       },
       {
@@ -95,19 +96,20 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Programador Frontend Sénior',
         highlights: [
-          'Contribuiu para o frontend dos produtos Lidya (uso interno e público) com React, HTML e LESS',
+          'Contribuí para o frontend dos produtos Lidya (uso interno e público) com React, HTML e LESS',
         ],
       },
       {
         role: 'Programador Frontend',
         highlights: [
-          'Contribuiu para o frontend do DZone Portal com Angular e SCSS',
+          'Contribuí para o frontend do DZone Portal com Angular e SCSS',
+          'Geri deploys para produção e tarefas de suporte',
         ],
       },
       {
         role: 'Analista Programador',
         highlights: [
-          'Contribuiu para o projecto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
+          'Contribuí para o projecto Altaia (PT Inovação) com WebFocus, HTML, CSS e jQuery',
         ],
       },
     ],

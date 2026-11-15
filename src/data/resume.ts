@@ -52,7 +52,8 @@ export const resume = {
       end: "2018-12",
       location: "Raleigh, NC (remote)",
       highlights: [
-        "Contributed to the DZone Portal's frontend",
+        "Contributed to the DZone Portal's frontend with Angular and SCSS",
+        "Handled production deployments and support tasks",
       ],
       stack: ["Angular", "JavaScript", "HTML", "SCSS"],
     },
