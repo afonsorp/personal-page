@@ -52,7 +52,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Front End Developer',
         highlights: [
-          'Contributed to dynamic user experiences for the DZone Portal with Angular and SCSS',
+          'Contributed to the DZone Portal\'s frontend with Angular and SCSS',
         ],
       },
       {
@@ -101,7 +101,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Programador Frontend',
         highlights: [
-          'Contribuiu para as experiências de utilizador do DZone Portal com Angular e SCSS',
+          'Contribuiu para o frontend do DZone Portal com Angular e SCSS',
         ],
       },
       {
