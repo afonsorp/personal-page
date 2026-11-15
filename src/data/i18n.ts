@@ -46,13 +46,13 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Senior Frontend Developer',
         highlights: [
-          'Contributed to Lidya\'s frontend products for internal and public use with React, HTML, and LESS',
+          'Worked on Lidya\'s frontend products for internal and public use with React, HTML, and LESS',
         ],
       },
       {
         role: 'Front End Developer',
         highlights: [
-          'Contributed to the DZone Portal\'s frontend with Angular and SCSS',
+          'Developed the DZone Portal\'s frontend with Angular and SCSS',
           'Handled production deployments and support tasks',
         ],
       },
@@ -96,13 +96,13 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Programador Frontend Sénior',
         highlights: [
-          'Contribuí para o frontend dos produtos Lidya (uso interno e público) com React, HTML e LESS',
+          'Trabalhei no frontend dos produtos Lidya (uso interno e público) com React, HTML e LESS',
         ],
       },
       {
         role: 'Programador Frontend',
         highlights: [
-          'Contribuí para o frontend do DZone Portal com Angular e SCSS',
+          'Desenvolvi o frontend do DZone Portal com Angular e SCSS',
           'Geri deploys para produção e tarefas de suporte',
         ],
       },

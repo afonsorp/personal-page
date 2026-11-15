@@ -41,7 +41,7 @@ export const resume = {
       end: "2024-08",
       location: "Porto, Portugal",
       highlights: [
-        "Contributed to Lidya's frontend products for both internal and public use",
+        "Worked on Lidya's frontend products for both internal and public use",
       ],
       stack: ["React", "JavaScript", "HTML", "LESS"],
     },
@@ -52,7 +52,7 @@ export const resume = {
       end: "2018-12",
       location: "Raleigh, NC (remote)",
       highlights: [
-        "Contributed to the DZone Portal's frontend with Angular and SCSS",
+        "Developed the DZone Portal's frontend with Angular and SCSS",
         "Handled production deployments and support tasks",
       ],
       stack: ["Angular", "JavaScript", "HTML", "SCSS"],
