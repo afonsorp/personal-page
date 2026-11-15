@@ -4,7 +4,7 @@ export const resume = {
   email: "afonsorpl@gmail.com",
   linkedin: "https://www.linkedin.com/in/afonsorp",
 
-  bio: "Software developer with over 17 years in the industry. I started in frontend — JavaScript, Angular, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.",
+  bio: "Software developer with over 17 years in the industry. I started in frontend, working with JavaScript, Angular, and React, and today lead a six-person development team at Azakaw. My work covers both delivery management and hands-on code: backlog grooming, sprint planning, keeping releases on track, and still writing and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.",
 
   experience: [
     {

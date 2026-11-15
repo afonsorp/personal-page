@@ -21,7 +21,7 @@ export interface TranslationData {
 export const t: Record<Lang, TranslationData> = {
   en: {
     subtitle: 'Team Lead & Frontend Developer',
-    bio: 'Software developer with over 17 years in the industry. I started in frontend — JavaScript, Angular, React — and today lead a six-person development team at Azakaw. My role combines delivery ownership with hands-on work: backlog grooming, sprint planning, and keeping work tested and release-ready, while still writing code and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.',
+    bio: 'Software developer with over 17 years in the industry. I started in frontend, working with JavaScript, Angular, and React, and today lead a six-person development team at Azakaw. My work covers both delivery management and hands-on code: backlog grooming, sprint planning, keeping releases on track, and still writing and reviewing pull requests. I run 1:1s, mentor developers on the frontend, and take part in technical interviews.',
     sections: {
       experience: 'experience',
       education: 'education',
@@ -36,7 +36,7 @@ export const t: Record<Lang, TranslationData> = {
           'Own the team\'s backlog: ticket grooming, estimation, writing and assigning work',
           'Ensure on-time delivery with work tested and release-ready',
           'Run 1:1s and give feedback; mentor developers on the frontend',
-          'Stay hands-on: write code and review pull requests',
+          'Write code and review pull requests',
         ],
       },
       {
@@ -70,7 +70,7 @@ export const t: Record<Lang, TranslationData> = {
 
   pt: {
     subtitle: 'Team Lead & Programador Frontend',
-    bio: 'Programador com mais de 17 anos de experiência. Comecei no frontend — JavaScript, Angular, React — e actualmente lidero uma equipa de seis pessoas na Azakaw. O meu trabalho combina gestão de entrega com envolvimento técnico directo: refinamento de backlog, planeamento de sprints e garantia de qualidade, sem deixar de escrever e rever código. Faço 1:1s, acompanho o crescimento dos programadores do frontend e participo em entrevistas técnicas.',
+    bio: 'Programador com mais de 17 anos de experiência. Comecei no frontend, com JavaScript, Angular e React, e actualmente lidero uma equipa de seis pessoas na Azakaw. O meu trabalho divide-se entre gestão de entrega e trabalho técnico directo: refinamento de backlog, planeamento de sprints e garantia de qualidade, sem deixar de escrever e rever código. Faço 1:1s, acompanho o crescimento dos programadores do frontend e participo em entrevistas técnicas.',
     sections: {
       experience: 'experiência',
       education: 'educação',
@@ -85,7 +85,7 @@ export const t: Record<Lang, TranslationData> = {
           'Gerir o backlog da equipa: refinamento, estimativas e atribuição de tarefas',
           'Garantir entregas dentro do prazo, com trabalho testado e pronto para produção',
           'Realizar 1:1s e dar feedback; acompanhar o crescimento dos programadores do frontend',
-          'Manter presença técnica activa: escrever código e rever pull requests',
+          'Escrever código e rever pull requests',
         ],
       },
       {
@@ -95,7 +95,7 @@ export const t: Record<Lang, TranslationData> = {
       {
         role: 'Programador Frontend Sénior',
         highlights: [
-          'Contribuiu para o frontend dos produtos Lidya — uso interno e público — com React, HTML e LESS',
+          'Contribuiu para o frontend dos produtos Lidya (uso interno e público) com React, HTML e LESS',
         ],
       },
       {
